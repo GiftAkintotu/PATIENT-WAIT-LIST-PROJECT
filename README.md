@@ -1,7 +1,5 @@
 # PATIENT-WAIT-LIST-PROJECT
 
-## Patient Wait List ##
-
 ## Project Objectives ##
 1. Track current status of patient waiting list
 Analyze historical monthly trend of waiting list in Inpatient and outpatient categories
